@@ -28,8 +28,8 @@ You can run this program using a terminal with GCC or in **Visual Studio Code** 
 
 1. **Clone or download** the project:
    ```bash
-   git clone https://github.com/suragaafar/command-line-calculator
-   cd command-line-calculator
+   git clone https://github.com/suragaafar/CommandLineC-Calculator
+   cd CommandLineC-Calculator
    ```
 
 2. **Compile the program:**
